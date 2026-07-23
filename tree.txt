@@ -1,0 +1,70 @@
+IT-Tech-Knowledge-Base/
+├── 01-networking/
+│   ├── subnetting-cheatsheet.md
+│   ├── common-ports-protocols.md
+│   ├── troubleshooting-flowcharts.md      # "no internet" decision tree, etc.
+│   └── wifi-vs-wired-issues.md
+│
+├── 02-windows/
+│   ├── event-viewer-guide.md              # which event IDs actually matter
+│   ├── powershell-cheatsheet.md           # get-help by task, not syntax dump
+│   ├── bsod-common-causes.md
+│   ├── windows-update-troubleshooting.md
+│   └── registry-safe-edits.md
+│
+├── 03-active-directory/
+│   ├── aduc-common-tasks.md
+│   ├── group-policy-reference.md
+│   ├── permissions-ntfs-vs-share.md
+│   └── troubleshooting-logon-issues.md
+│
+├── 04-microsoft-365-azure/
+│   ├── admin-center-tasks.md
+│   ├── outlook-troubleshooting.md
+│   ├── entra-id-vs-onprem-ad.md
+│   ├── mfa-conditional-access-basics.md
+│   └── licensing-notes.md
+│
+├── 05-linux/
+│   ├── command-cheatsheet.md
+│   ├── systemd-service-management.md
+│   ├── log-locations-reference.md
+│   └── package-management-distros.md
+│
+├── 06-security/
+│   ├── phishing-red-flags.md
+│   ├── password-policy-best-practices.md
+│   ├── endpoint-protection-basics.md
+│   ├── backup-strategy-321.md
+│   └── incident-response-first-steps.md   # what to do before IT security team arrives
+│
+├── 07-hardware/
+│   ├── laptop-diagnostics.md
+│   ├── printer-troubleshooting.md         # this alone is worth its own file, printers are relentless
+│   ├── peripheral-driver-issues.md
+│   └── monitor-display-issues.md
+│
+├── 08-remote-access-tools/
+│   ├── rdp-vs-ssh-vs-vnc.md
+│   ├── vpn-client-troubleshooting.md
+│   └── remote-support-tools-comparison.md # TeamViewer, AnyDesk, Quick Assist, etc.
+│
+├── 09-ticketing-and-process/
+│   ├── ticket-writing-templates.md        # how to document a resolved ticket well
+│   ├── escalation-criteria.md             # when to escalate vs solve yourself
+│   ├── sla-priority-levels.md
+│   └── change-management-basics.md
+│
+├── 10-soft-skills/
+│   ├── talking-to-frustrated-users.md
+│   ├── explaining-tech-to-non-tech.md
+│   ├── phone-etiquette.md
+│   └── time-management-multiple-tickets.md
+│
+├── 11-my-projects/
+│   ├── homelab-ollama-openwebui.md
+│   ├── tailscale-remote-access-setup.md
+│   └── lessons-learned.md                 # what broke, how you fixed it — gold for interviews
+│
+└── 12-glossary/
+    └── acronyms-and-terms.md              # the "what does X actually mean" catch-all
